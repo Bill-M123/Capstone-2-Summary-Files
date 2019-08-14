@@ -5,7 +5,7 @@
 
 This project is a binary classification problem that relies on numerical, categorical, and textual inputs.  The "client" is Donor's Choice, an organization that runs a matching site for school projects and people willing to fund those projects.  Donor's choice is described in both the interim report and the final results summary, but it is important to note that this dataset was originally used as a Kaggle competition, which provided a solid frame of reference for evaluating the eventual model.
 
-From a project perspective, all of the basic steps are contained in this project: visualization, cleaning, analysis, model construction and evaluation. The diagrams above show examples of what is contained in the various workbooks:
+From a project perspective, all of the basic steps are contained in this project: visualization, cleaning, analysis, model construction and evaluation. The diagrams above show examples of what is contained in the various workbooks(available upon request.):
 
 In Notebook 1, basic cleaning and visualization are performed.  It quickly becomes clear that on average, 85% of the proposals are approved on the inital human review.  This is a relatively robust conclusion across most high level slices.  However, upon deeper examination, differences emerge across subjects, geographies, and cost levels.  Those initial insights drive the choice of features for the eventual model.
 
